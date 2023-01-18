@@ -14,7 +14,7 @@
 ### Connect with me:
 
 [![website](./img/globe-light.svg)](http://never615.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://never615.com#gh-dark-mode-only)
+[![website](./img/globe-dark.svg)](http://never615.com#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/never615#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/never615#gh-dark-mode-only)
