@@ -8,7 +8,7 @@
 ## I'm a Husband, Developer!!
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2023 Goals: Learn more about web3
+- 🥅 2024 Goals: Learn more about AI
 - ⚡ Fun fact: I love to play ping pong ball / basketball
 
 ### Connect with me:
