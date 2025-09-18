@@ -8,7 +8,6 @@
 ## I'm a Developer, Operations!!
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2024 Goals: Learn more about AI
 - ⚡ Fun fact: I love to play ping pong ball / basketball
 
 ### Connect with me:
